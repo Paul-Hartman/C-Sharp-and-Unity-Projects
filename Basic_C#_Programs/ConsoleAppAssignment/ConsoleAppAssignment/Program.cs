@@ -24,7 +24,7 @@ namespace ConsoleAppAssignment
             bool trueorFalse = true;
             while (trueorFalse)
             {
-                Console.WriteLine("boop");
+                Console.WriteLine("Infinite loop fixed");
                 trueorFalse = false;
             }
             for (int i = 0; i<  words.Length; i++)
@@ -45,17 +45,57 @@ namespace ConsoleAppAssignment
                 foreach (string flavor in iceCreamFlavors)
                   {
                     if(flavor == flavorGuess)
-                {
-                    Console.WriteLine("That flavor is at index " + index);
-                }
-                    else if (flavorGuess!= flavor && index!=4)
-                {
-                    Console.WriteLine("That flavor is not in the list");
-                    break;
+                        {
+                            Console.WriteLine("That flavor is at index " + index);
+                        }
+                            else if (flavorGuess!= flavor && index!=4)
+                        {
+                            Console.WriteLine("That flavor is not in the list");
+                            break;
                     
                     
-                }
+                        }
                   }
+
+            List<string> colors = new List<string>() { "red", "red", "blue", "green", "yellow", "orange" };
+            Console.WriteLine("Guess a color");
+            string colorGuess = Console.ReadLine();
+            colorGuess = colorGuess.ToLower();
+            int indexColor = colors.IndexOf(colorGuess);
+            foreach (string color in colors)
+            {
+                if (color == colorGuess)
+                {
+                    Console.WriteLine("the index of that color is " + colors.IndexOf(colorGuess));
+                    if (colorGuess == "red")
+                    { Console.WriteLine("and " + colors.IndexOf(colorGuess, 1)); }
+                    break;
+
+                }
+                else if (colorGuess != color && indexColor != 5) 
+                {
+                    Console.WriteLine("That color is not in the list");
+                    break;
+                }
+            }
+
+            List<string> animals = new List<string>() { "koala", "cat", "cat", "fish", "dog", "bird" };
+            var count = new Dictionary<string, int>();
+            foreach (string animal in animals)
+            {
+                if (count.ContainsKey(animal))
+                {
+                    count[animal]++;
+                }
+                else
+                {
+                    count.Add(animal, 1);
+                }
+            }
+            foreach (var item in count)
+            {
+                Console.WriteLine("{0}:{1}", item.Key, item.Value);
+            }
             Console.ReadLine();
         }
     }
