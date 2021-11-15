@@ -8,29 +8,31 @@ namespace CallingMethodsAssignment
 {
     public class Operations
     {
-        static public int Square(int enteredNumber)
+        public int Square(int enteredNumber)
         {
             int input = enteredNumber;
             return input * input;
         }
 
-        static public int AddSub(int newNum)
+        public int AddSub(int enteredNumber)
         {
-            int input = newNum;
-            if (newNum > 30)
+            int input = enteredNumber;
+            if (enteredNumber > 30)
             {
-                newNum = newNum - 10;
+                int sum = input - 10;
+                return (sum);
             }
             else
             {
-                newNum = newNum + 15;
+                int sum = input + 15;
+                return (sum);
             }
-            return (newNum);
+            
         }
 
-        static public int IsOdd(int newNum)
+        public int IsOdd(int enteredNumber)
         {
-            int OddorEven = newNum % 2;
+            int OddorEven = enteredNumber % 2;
             return (OddorEven);
         }
         

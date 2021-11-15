@@ -12,11 +12,19 @@ namespace CallingMethodsAssignment
         {
             Console.WriteLine("Enter a number");
             int enteredNumber = Convert.ToInt32(Console.ReadLine());
-            int newNum = Operations.Square(enteredNumber);
-            newNum = Operations.AddSub(newNum);
-            int OddorEven = Operations.IsOdd(newNum);
-            Console.Write(OddorEven);
-            Console.ReadLine();
+
+            Operations math = new Operations();
+
+            int square = math.Square(enteredNumber);
+            Console.WriteLine("Your number squared " +square);
+
+            int OddOrEven = math.IsOdd(enteredNumber);
+            Console.WriteLine("Is it Odd " +OddOrEven);
+
+            int sum = math.AddSub(enteredNumber);
+            Console.WriteLine("Your number increased or reduced "+sum);
+            Console.Read();
+       
         }
     }
 }
