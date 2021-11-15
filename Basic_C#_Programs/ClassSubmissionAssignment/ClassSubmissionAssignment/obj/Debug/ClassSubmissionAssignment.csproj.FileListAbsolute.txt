@@ -1,0 +1,7 @@
+C:\Users\Paul\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassSubmissionAssignment\ClassSubmissionAssignment\bin\Debug\ClassSubmissionAssignment.exe.config
+C:\Users\Paul\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassSubmissionAssignment\ClassSubmissionAssignment\bin\Debug\ClassSubmissionAssignment.exe
+C:\Users\Paul\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassSubmissionAssignment\ClassSubmissionAssignment\bin\Debug\ClassSubmissionAssignment.pdb
+C:\Users\Paul\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\ClassSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\Paul\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\ClassSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\ClassSubmissionAssignment.exe
+C:\Users\Paul\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\ClassSubmissionAssignment.pdb
