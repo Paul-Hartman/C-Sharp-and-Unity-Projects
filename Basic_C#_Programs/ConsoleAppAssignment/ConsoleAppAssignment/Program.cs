@@ -68,7 +68,8 @@ namespace ConsoleAppAssignment
                 {
                     Console.WriteLine("the index of that color is " + colors.IndexOf(colorGuess));
                     if (colorGuess == "red")
-                    { Console.WriteLine("and " + colors.IndexOf(colorGuess, 1)); }
+                    { Console.WriteLine("and " + colors.IndexOf(colorGuess, 1)); 
+                    }
                     break;
 
                 }

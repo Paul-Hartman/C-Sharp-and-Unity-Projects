@@ -1,0 +1,7 @@
+C:\Users\Paul\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ConsoleApp2Assignment\ConsoleApp2Assignment\bin\Debug\ConsoleApp2Assignment.exe.config
+C:\Users\Paul\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ConsoleApp2Assignment\ConsoleApp2Assignment\bin\Debug\ConsoleApp2Assignment.exe
+C:\Users\Paul\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ConsoleApp2Assignment\ConsoleApp2Assignment\bin\Debug\ConsoleApp2Assignment.pdb
+C:\Users\Paul\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ConsoleApp2Assignment\ConsoleApp2Assignment\obj\Debug\ConsoleApp2Assignment.csproj.AssemblyReference.cache
+C:\Users\Paul\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ConsoleApp2Assignment\ConsoleApp2Assignment\obj\Debug\ConsoleApp2Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ConsoleApp2Assignment\ConsoleApp2Assignment\obj\Debug\ConsoleApp2Assignment.exe
+C:\Users\Paul\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ConsoleApp2Assignment\ConsoleApp2Assignment\obj\Debug\ConsoleApp2Assignment.pdb
