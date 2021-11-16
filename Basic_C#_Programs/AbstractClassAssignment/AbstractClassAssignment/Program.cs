@@ -14,6 +14,10 @@ namespace AbstractClassAssignment
             Emp1.firstName = "Sample ";
             Emp1.lastName = "Student";
             Emp1.SayName();
+
+            Employee Emp2 = new Employee();
+
+            Emp2.Quit();
             Console.ReadLine();
 
         }
