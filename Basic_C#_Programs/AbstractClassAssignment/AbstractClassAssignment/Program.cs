@@ -15,7 +15,8 @@ namespace AbstractClassAssignment
             Emp1.lastName = "Student";
             Emp1.SayName();
 
-            Employee Emp2 = new Employee();
+            
+            IQuittable Emp2 = new Employee();
 
             Emp2.Quit();
             Console.ReadLine();
