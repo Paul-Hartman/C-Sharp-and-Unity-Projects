@@ -19,6 +19,15 @@ namespace AbstractClassAssignment
             IQuittable Emp2 = new Employee();
 
             Emp2.Quit();
+
+            Employee a = new Employee();
+            Employee b = new Employee();
+            a.Id = 01;
+            b.Id = 01;
+
+            _ = a != b;
+            _ = a == b;
+            Console.WriteLine(b.Id);
             Console.ReadLine();
 
         }
