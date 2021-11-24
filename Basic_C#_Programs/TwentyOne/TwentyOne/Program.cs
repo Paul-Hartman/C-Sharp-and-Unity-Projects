@@ -11,7 +11,7 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            string text = File.ReadAllText(@"C:\Users\Paul\Logs\log.txt");
+           
 
 
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");

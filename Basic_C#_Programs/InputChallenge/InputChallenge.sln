@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputChallenge", "InputChallenge\InputChallenge.csproj", "{873123B5-0B61-4224-AB25-22815481C7D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{873123B5-0B61-4224-AB25-22815481C7D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{873123B5-0B61-4224-AB25-22815481C7D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{873123B5-0B61-4224-AB25-22815481C7D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{873123B5-0B61-4224-AB25-22815481C7D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DC007A2-2A1B-40A2-815C-790869B1BE08}
+	EndGlobalSection
+EndGlobal
